@@ -1,5 +1,18 @@
 # CrateDB connector for Estuary
 
+[![Bluesky][badge-bluesky]][target-bluesky]
+[![Status][badge-status]][target-project]
+[![Release Notes][badge-release-notes]][target-release-notes]
+[![License][badge-license]][target-license]
+
+» [Documentation]
+| [Changelog]
+| [Issues]
+| [Source code]
+| [License]
+| [CrateDB]
+| [Community Forum]
+
 ## About
 
 [Estuary] provides real-time data integration and ETL for modern data pipelines.
@@ -20,16 +33,29 @@ Estuary. Please use it to report problems, and stay informed about their resolut
 
 ## Status
 
-- The connector is currently in BETA.
-
-- The documentation can be found at [CrateDB destination connector for Estuary].
-
-- The connector code within Estuary's ecosystem is located at
-  [estuary/connectors/materialize-cratedb].
+The CrateDB connector for Estuary is an open-source project, and is
+[managed on GitHub]. Currently, its status is to be considered
+work-in-progress, i.e. pre-alpha.
 
 
 [CrateDB]: https://cratedb.com/database
-[CrateDB destination connector for Estuary]: https://estuary.dev/destination/cratedb/
 [Estuary]: https://estuary.dev/
-[estuary/connectors/materialize-cratedb]: https://github.com/estuary/connectors/tree/main/materialize-cratedb
 [issue tracker]: https://github.com/crate/cratedb-estuary/issues
+
+[Changelog]: https://github.com/estuary/connectors/blob/main/materialize-cratedb/CHANGELOG.md
+[Community Forum]: https://community.cratedb.com/
+[Documentation]: https://estuary.dev/destination/cratedb/
+[Issues]: https://github.com/crate/cratedb-estuary/issues
+[License]: https://github.com/crate/cratedb-estuary/blob/main/LICENSE
+[managed on GitHub]: https://github.com/estuary/connectors/tree/main/materialize-cratedb
+[Source code]: https://github.com/estuary/connectors/tree/main/materialize-cratedb
+
+[badge-bluesky]: https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20%40CrateDB
+[badge-issues]: https://img.shields.io/github/issues/crate/cratedb-estuary
+[badge-license]: https://img.shields.io/github/license/crate/cratedb-estuary
+[badge-release-notes]: https://img.shields.io/badge/Release%20Notes-v0.0.0-blue
+[badge-status]: https://img.shields.io/badge/status-pre--alpha-orange
+[target-bluesky]: https://bsky.app/search?q=cratedb
+[target-license]: https://github.com/crate/cratedb-estuary/blob/main/LICENSE
+[target-project]: https://github.com/crate/cratedb-estuary
+[target-release-notes]: https://github.com/estuary/connectors/blob/main/materialize-cratedb/CHANGELOG.md
