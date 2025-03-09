@@ -18,7 +18,7 @@
 [Estuary] provides real-time data integration and ETL for modern data pipelines.
 Build scalable, fault-tolerant streaming data pipelines that seamlessly connect
 to virtually any data source for data warehouses, real-time analytics,
-operations, machine learning, and AI. You can use Estuary to continously ingest
+operations, machine learning, and AI. You can use Estuary to continuously ingest
 and deliver both streaming and batch change data (CDC) from 100s of sources
 using Estuary's custom no-code connectors.
 
