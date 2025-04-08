@@ -24,7 +24,7 @@ using Estuary's custom no-code connectors.
 
 [CrateDB] is a distributed and scalable SQL database for storing and analyzing
 massive amounts of data in near real-time, even with complex queries. It is
-PostgreSQL-compatible, and based on Lucene.
+PostgreSQL wire compatible, and based on Lucene.
 
 ## What's inside
 
@@ -34,9 +34,7 @@ Estuary. Please use it to report problems, and stay informed about their resolut
 ## Status
 
 The CrateDB connector for Estuary is an open-source project, and is
-[managed on GitHub]. Currently, its status is to be considered
-work-in-progress, i.e. pre-alpha.
-
+[managed on GitHub].
 
 [CrateDB]: https://cratedb.com/database
 [Estuary]: https://estuary.dev/
@@ -54,7 +52,7 @@ work-in-progress, i.e. pre-alpha.
 [badge-issues]: https://img.shields.io/github/issues/crate/cratedb-estuary
 [badge-license]: https://img.shields.io/github/license/crate/cratedb-estuary
 [badge-release-notes]: https://img.shields.io/badge/Release%20Notes-v0.0.0-blue
-[badge-status]: https://img.shields.io/badge/status-pre--alpha-orange
+[badge-status]: https://img.shields.io/badge/status-beta-orange
 [target-bluesky]: https://bsky.app/search?q=cratedb
 [target-license]: https://github.com/crate/cratedb-estuary/blob/main/LICENSE
 [target-project]: https://github.com/crate/cratedb-estuary
