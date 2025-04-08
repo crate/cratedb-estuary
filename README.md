@@ -51,7 +51,7 @@ The CrateDB connector for Estuary is an open-source project, and is
 [badge-bluesky]: https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20%40CrateDB
 [badge-issues]: https://img.shields.io/github/issues/crate/cratedb-estuary
 [badge-license]: https://img.shields.io/github/license/crate/cratedb-estuary
-[badge-release-notes]: https://img.shields.io/badge/Release%20Notes-v0.0.0-blue
+[badge-release-notes]: https://img.shields.io/badge/Release%20Notes-v1-blue
 [badge-status]: https://img.shields.io/badge/status-beta-orange
 [target-bluesky]: https://bsky.app/search?q=cratedb
 [target-license]: https://github.com/crate/cratedb-estuary/blob/main/LICENSE
