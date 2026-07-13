@@ -13,6 +13,11 @@
 | [CrateDB]
 | [Community Forum]
 
+## Archived project
+
+The CrateDB Estuary project has been archived and is not maintained as it has been 
+[removed upstream](https://github.com/estuary/connectors/pull/4299).
+
 ## About
 
 [Estuary] provides real-time data integration and ETL for modern data pipelines.
